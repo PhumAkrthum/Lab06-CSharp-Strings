@@ -24,7 +24,7 @@ System.Console.WriteLine($"newStr = {newStr}");
        
  // 7. ถ้าบรรทัดนี้ error ให้ comment ออกแล้ว run ใหม่ 
  // Capture  หน้าจอไว้ด้วยว่าโปรแกรมแสดง error อย่างไร
-System.Console.WriteLine($"nullStr.Length = {nullStr.Length}");
+//System.Console.WriteLine($"nullStr.Length = {nullStr.Length}");
  // 8. อักขระ null จะสามารถส่งไปแแสดงผลและถูกนับเป็นหนึ่งอักขระเช่นเดียวกับอักขระอื่น ๆ > เพีย      แต่มันไม่แสดงรูปร่างบนหน้าจอภาพ  
  // 8.1 เชื่อมอักขระปกติต่อท้ายอักขระ null
 string s1 = "\x0" + "abc";

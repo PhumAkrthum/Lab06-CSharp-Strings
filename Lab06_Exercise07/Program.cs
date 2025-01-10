@@ -10,6 +10,14 @@ string s1 = "I \u0003 Visual C# ";
        var substring = s1.Substring(indexOfC, 2);
        System.Console.WriteLine($"s1.Substring({indexOfC}, 2) = {substring}");
        
+
+       // 3. เมธอด Replace(  ) ใช้แทนที่บางส่วนของ string  ด้วย string ที่กำหนด 
+       System.Console.WriteLine($"Replace C# with Basic and write to s2");
+       System.Console.WriteLine($"Before replace s1.hashcode = {s1.GetHashCode():X}"); 
+       s1 = s1.Replace("C#", "Basic");
+       System.Console.WriteLine($"s1 = {s1}");
+       System.Console.WriteLine($"After replace s1.hashcode = {s1.GetHashCode():X}"); 
+
        // 3. เมธอด Replace(  ) ใช้แทนที่บางส่วนของ string  ด้วย string ที่กำหนด 
        //System.Console.WriteLine($"Replace C# with Basic and write to s2");
        //System.Console.WriteLine($"Before replace s1.hashcode = {s1.GetHashCode():X}"); 
@@ -18,9 +26,4 @@ string s1 = "I \u0003 Visual C# ";
        //System.Console.WriteLine($"s2 = {s2}");
        //System.Console.WriteLine($"After replace s1.hashcode = {s1.GetHashCode():X}"); 
 
-       // 3. เมธอด Replace(  ) ใช้แทนที่บางส่วนของ string  ด้วย string ที่กำหนด 
-       System.Console.WriteLine($"Replace C# with Basic and write to s2");
-       System.Console.WriteLine($"Before replace s1.hashcode = {s1.GetHashCode():X}"); 
-       s1 = s1.Replace("C#", "Basic");
-       System.Console.WriteLine($"s1 = {s1}");
-       System.Console.WriteLine($"After replace s1.hashcode = {s1.GetHashCode():X}"); 
+       
