@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\Documents\\LAB6OOP\\Lab06-CSharp-Strings\\Lab06_Exercise07\\Lab06_Exercise07.csproj",
-      "projectName": "Lab06_Exercise07",
-      "projectPath": "C:\\Users\\asus\\Documents\\LAB6OOP\\Lab06-CSharp-Strings\\Lab06_Exercise07\\Lab06_Exercise07.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Documents\\LAB6OOP\\Lab06-CSharp-Strings\\Lab06_Exercise09\\Lab06_Exercise09.csproj",
+      "projectName": "Lab06_Exercise09",
+      "projectPath": "C:\\Users\\asus\\Documents\\LAB6OOP\\Lab06-CSharp-Strings\\Lab06_Exercise09\\Lab06_Exercise09.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\Documents\\LAB6OOP\\Lab06-CSharp-Strings\\Lab06_Exercise07\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Documents\\LAB6OOP\\Lab06-CSharp-Strings\\Lab06_Exercise09\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
