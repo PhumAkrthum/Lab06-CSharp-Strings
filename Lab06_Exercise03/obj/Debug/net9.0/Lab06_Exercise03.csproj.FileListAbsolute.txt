@@ -1,0 +1,15 @@
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\bin\Debug\net9.0\Lab06_Exercise03.exe
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\bin\Debug\net9.0\Lab06_Exercise03.deps.json
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\bin\Debug\net9.0\Lab06_Exercise03.runtimeconfig.json
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\bin\Debug\net9.0\Lab06_Exercise03.dll
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\bin\Debug\net9.0\Lab06_Exercise03.pdb
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\obj\Debug\net9.0\Lab06_Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\obj\Debug\net9.0\Lab06_Exercise03.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\obj\Debug\net9.0\Lab06_Exercise03.AssemblyInfo.cs
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\obj\Debug\net9.0\Lab06_Exercise03.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\obj\Debug\net9.0\Lab06_Exercise03.sourcelink.json
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\obj\Debug\net9.0\Lab06_Exercise03.dll
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\obj\Debug\net9.0\refint\Lab06_Exercise03.dll
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\obj\Debug\net9.0\Lab06_Exercise03.pdb
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\obj\Debug\net9.0\Lab06_Exercise03.genruntimeconfig.cache
+C:\Users\asus\Documents\LAB6OOP\Lab06_Exercise03\obj\Debug\net9.0\ref\Lab06_Exercise03.dll
